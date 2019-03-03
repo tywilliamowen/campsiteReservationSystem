@@ -1,1 +1,0 @@
-With a pair programming partner over the course of 4 days developed a command line interface vending machine in Java using test driven development. Loads inventory from a csv file and writes sales log to txt file. Adheres to OOP fundamentals.
